@@ -4,7 +4,7 @@ Name: Erwin C. Gaon
 Student ID: 23-2979-899
 Course/Section: CIT17/3H
 
-Web Server: Pyhton HTTP S erver
+Web Server: Pyhton HTTP Server
 Port: 8000
 
 ## What I Learned
